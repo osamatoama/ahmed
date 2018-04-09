@@ -1,4 +1,14 @@
 body {
-    color: red;
-    background-color:#080;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    color: #1d2ca2;
+}
+
+p {
+    font-size: 22px;
+    margin: 0px 10px;
 }
