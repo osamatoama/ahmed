@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>github traning </title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/style.css?ver=<?= uniqid()?>">
 </head>
 <body>
     <h1>
@@ -15,6 +15,6 @@
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque nisi earum fuga, tenetur nulla nam vitae nihil alias natus incidunt harum assumenda eum quos, porro quisquam esse voluptate nesciunt maiores?
     </p>
 
-    <script src="js/app.js"></script>
+    <script src="js/app.js?ver=<?= uniqid()?>"></script>
 </body>
 </html>
